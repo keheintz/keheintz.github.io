@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Kasper Elm Heintz"
 title_separator          : "-"
 name                     : &name "Kasper Elm Heintz"
 description              : &description "Postdoctoral researcher at the University of Iceland"
