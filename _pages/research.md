@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Scientific interesters
-======
 My scientific interests are generally within the field of galaxy formation and evolution and in particular their chemical enrichment through cosmic time.
 
 Active collaborations
