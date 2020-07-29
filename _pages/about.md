@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://keheintz.github.io/files/FrontPic.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://keheintz.github.io/files/FrontPic.jpg?raw=true" alt="Photo" style="width: 600px;"/>
 </p>
 
 Hello there, my name is Kasper and I am currently a Postdoctoral researcher at the University of Iceland. I am mainly working on gamma-ray bursts and quasars and how they can be used as cosmic tools to study the dust, gas and metals in intervening or host galaxy absorption systems. I am also part of a team that searches for the electromagnetic counterparts of gravitational wave events, such as merging neutron stars and/or black holes.
