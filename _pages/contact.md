@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **E-mail(s):**  
-keh14@hi.is (research)
+keh14@hi.is (research)  
 thekosmoskasper@gmail.com (outreach)
 
 **Twitter:**  
