@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-**E-mail(s):**&nbsp;
+**E-mail(s):**  
 keh14@hi.is (research)
 thekosmoskasper@gmail.com (outreach)
 
-**Twitter:**&nbsp;
+**Twitter:**  
 @KosmosKasper
 
-**Currently employed:**&nbsp;
+**Currently employed:**  
 Postdoctoral researcher at the Centre for Astrophysics and Cosmology, Science Institute, University of Iceland, Dunhagi 5, 107 Reykjavík, Iceland
