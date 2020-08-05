@@ -15,8 +15,8 @@ or [ORCID](https://orcid.org/0000-0002-9389-7413).
 
 ## First-Authored Papers
 
-_Direct Measurement of the [C I] Luminosity to Molecular Gas Mass Conversion Factor in High-redshift Star-forming Galaxies,_  
-** Kasper E. Heintz** & Darach Watson, ApJL, vol. 889, id. L7, 8 pp. (2020) [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...889L...7H/abstract), [PDF](https://arxiv.org/pdf/2001.05770.pdf)]
+_Direct Measurement of the [CI] Luminosity to Molecular Gas Mass Conversion Factor in High-redshift Star-forming Galaxies,_  
+**Kasper E. Heintz** & Darach Watson, ApJL, vol. 889, id. L7, 8 pp. (2020) [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...889L...7H/abstract), [PDF](https://arxiv.org/pdf/2001.05770.pdf)]
 
 _New constraints on the physical conditions in H2-bearing GRB-host damped Lyman-α absorbers,_  
 **K. E. Heintz**, J. Bolmer, C. Ledoux, P. Noterdaeme, J.-K. Krogager, J. P. U.
