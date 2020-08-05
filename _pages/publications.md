@@ -55,6 +55,13 @@ _A quasar hiding behind two dusty absorbers. Quantifying the selection bias of m
 Christensen, S. Geier, J.-K. Krogager, & P. Noterdaeme, A&A, vol. 615, id. A43,
 14 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...615A..43H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2018/07/aa31964-17.pdf)]
 
+_The luminous, massive and solar metallicity galaxy hosting the Swift γ-ray burst GRB160804A at z = 0.737,_  
+K. E. Heintz, D. Malesani, K. Wiersema, P. Jakobsson, J. P. U. Fynbo, S.
+Savaglio, Z. Cano, V. D’Elia, A. Gomboc, F. Hammer, L. Kaper, B. Milvang-
+Jensen, P. Møller, S. Piranomonte, J. Selsing, N. H. P. Rhodin, N. R. Tanvir,
+C. C. Thöne, A. de Ugarte Postigo, S. D. Vergani, & D. Watson, MNRAS, vol. 474,
+issue 2, 12 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2738H/abstract), [PDF](https://arxiv.org/pdf/1711.02706.pdf)]
+
 [TBD]
 
 ## Co-Authored Papers
