@@ -18,12 +18,12 @@ or [ORCID](https://orcid.org/0000-0002-9389-7413).
 _Direct Measurement of the [CI] Luminosity to Molecular Gas Mass Conversion Factor in High-redshift Star-forming Galaxies,_  
 **Kasper E. Heintz** & Darach Watson, ApJL, vol. 889, id. L7, 8 pp. (2020) [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...889L...7H/abstract), [PDF](https://arxiv.org/pdf/2001.05770.pdf)]
 
-_New constraints on the physical conditions in H2-bearing GRB-host damped Lyman-α absorbers,_  
+_New constraints on the physical conditions in H<sub>2</sub>-bearing GRB-host damped Lyman-α absorbers,_  
 **K. E. Heintz**, J. Bolmer, C. Ledoux, P. Noterdaeme, J.-K. Krogager, J. P. U.
 Fynbo, P. Jakobsson, S. Covino, V. D’Elia, M. De Pasquale, D. H. Hartmann, L.
 Izzo, J. Japelj, D. A. Kann, L. Kaper, P. Petitjean, A. Rossi, R. Salvaterra,
 P. Schady, J. Selsing, R. Starling, N. R. Tanvir, C. C. Thöne, A. de Ugarte
 Postigo, S. D. Vergani, D. Watson, K. Wiersema, & T. Zafar, A&A, vol. 629, id.
-A131, 21 pp. (2019) [ADS, PDF]
+A131, 21 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019A%26A...629A.131H/abstract), [PDF](https://arxiv.org/pdf/1908.02309.pdf)]
 
 
