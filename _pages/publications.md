@@ -68,7 +68,18 @@ Watson, C. Ledoux, P. Noterdaeme, D. A. Perley, H. Rhodin, J. Selsing, S.
 Schulze, N. R. Tanvir, P. Møller, P. Goldoni, D. Xu, & B. Milvang-Jensen, A&A,
 vol. 601, id. A83, 10 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017A%26A...601A..83H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2017/05/aa30702-17.pdf)]
 
-[TBD]
+_Determining the fraction of reddened quasars in COSMOS with multiple selection techniques from X-ray to radio wavelengths,_  
+**K. E. Heintz**, J. P. U. Fynbo, P. Møller, B. Milvang-Jensen, J. Zabl, N.
+Maddox, J.-K. Krogager, S. Geier, M. Vestergaard, P. Noterdaeme, & C. Ledoux,
+A&A, vol. 595, id. A13, 22 pp. (2016) [[ADS](https://ui.adsabs.harvard.edu/abs/2016A%26A...595A..13H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2016/11/aa28836-16.pdf)]
+
+_Serendipitous discovery of a projected pair of QSOs separated by 4.5 arcsec on the sky,_  
+**K. E. Heintz**, J. P. U. Fynbo, J. K. Krogager, M. Vestergaard, P. Møller, M.
+Arabsalmani, S. Geier, P. Noterdaeme, C. Ledoux, F. G. Saturni, & B. Venemans,
+ApJ, vol. 152, id. 13, 4 pp. (2016) [[ADS](https://ui.adsabs.harvard.edu/abs/2016AJ....152...13H/abstract), [PDF](https://iopscience.iop.org/article/10.3847/0004-6256/152/1/13/pdf)]
+
+_A study of purely astrometric selection of extragalactic point sources with Gaia,_  
+K. E. Heintz, J. P. U. Fynbo, & E. Høg, A&A, vol. 578, id. A91, 4 pp. (2015) [[ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...578A..91H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2015/06/aa26038-15.pdf)]
 
 ## Co-Authored Papers
 
