@@ -30,3 +30,23 @@ _On the dust properties of high-redshift molecular clouds and the connection to 
 **K. E. Heintz**, T. Zafar, A. De Cia, S. D. Vergani, P. Jakobsson, J. P. U.
 Fynbo, D. Watson, J. Japelj, P. Møller, S. Covino, L. Kaper, & A. C. Andersen,
 MNRAS, vol. 486, issue 2, 12 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.2063H/abstract), [PDF](https://arxiv.org/pdf/1904.04301.pdf)]
+
+_Cold gas in the early Universe. Survey for neutral atomic-carbon in GRB host galaxies at 1 < z < 6 from optical afterglow spectroscopy,_  
+**K. E. Heintz**, C. Ledoux, J. P. U. Fynbo, P. Jakobsson, P. Noterdaeme, J.-K.
+Krogager, J. Bolmer, P. Møller, S. D.Vergani, D. Watson, T. Zafar, A. De Cia,
+N. R. Tanvir, D. B. Malesani, J. Japelj, S. Covino, & L. Kaper, A&A, vol. 621,
+id. A20, 13 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019A%26A...621A..20H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2019/01/aa34246-18.pdf)]
+
+_Highly ionized metals as probes of the circumburst gas in the natal regions of gamma-ray bursts,_  
+**K. E. Heintz**, D. Watson, P. Jakobsson, J. P. U. Fynbo, J. Bolmer, M.
+Arabsalmani, Z. Cano, S. Covino, V. D’Elia, A. Gomboc, J. Japelj, L. Kaper,
+J.-K. Krogager, G. Pugliese, R. Sánchez-Ramírez, J. Selsing, M. Sparre, N. R.
+Tanvir, C. C. Thöne, A. de Ugarte Postigo, & S. D. Vergani, MNRAS, vol. 479,
+issue 3, 21 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.3456H/abstract), [PDF](https://arxiv.org/pdf/1806.01296.pdf)]
+
+_Unidentified quasars among stationary objects from Gaia DR2,_  
+**K. E. Heintz**, J. P. U. Fynbo, E. Høg, P. Møller, J.-K. Krogager, S. Geier,
+P. Jakobsson, & L. Christensen, A&A, vol. 615, id. L8, 9 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...615L...8H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2018/07/aa33396-18.pdf)]
+
+## Co-Authored Papers
+
