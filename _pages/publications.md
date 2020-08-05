@@ -44,5 +44,14 @@ J.-K. Krogager, G. Pugliese, R. Sánchez-Ramírez, J. Selsing, M. Sparre, N. R.
 Tanvir, C. C. Thöne, A. de Ugarte Postigo, & S. D. Vergani, MNRAS, vol. 479,
 issue 3, 21 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.3456H/abstract), [PDF](https://arxiv.org/pdf/1806.01296.pdf)]
 
+[TBD]
+
 ## Co-Authored Papers
 
+_A Distant Fast Radio Burst Associated to its Host Galaxy with the Very Large Array,_  
+C. J. Law, B. J. Butler, J. X. Prochaska, B. Zackay, S. Burke-Spolaor,
+A. Mannings, N. Tejos, A. Josephy, B. Andersen, P. Chawla, *K. E. Heintz*, K. Aggerwal,
+G. C. Bower, P. B. Demorest, C. D. Kilpatrick, T. J. W. Lazio, J. Linford, R.
+Kckinven, S. Tendulkar, S. Simha, ApJ (in press), arXiv:2007.02155 (2020), [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200702155L/abstract), [PDF](https://arxiv.org/pdf/2007.02155.pdf)]
+
+[TBD]
