@@ -56,11 +56,17 @@ Christensen, S. Geier, J.-K. Krogager, & P. Noterdaeme, A&A, vol. 615, id. A43,
 14 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...615A..43H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2018/07/aa31964-17.pdf)]
 
 _The luminous, massive and solar metallicity galaxy hosting the Swift γ-ray burst GRB160804A at z = 0.737,_  
-K. E. Heintz, D. Malesani, K. Wiersema, P. Jakobsson, J. P. U. Fynbo, S.
+**K. E. Heintz**, D. Malesani, K. Wiersema, P. Jakobsson, J. P. U. Fynbo, S.
 Savaglio, Z. Cano, V. D’Elia, A. Gomboc, F. Hammer, L. Kaper, B. Milvang-
 Jensen, P. Møller, S. Piranomonte, J. Selsing, N. H. P. Rhodin, N. R. Tanvir,
 C. C. Thöne, A. de Ugarte Postigo, S. D. Vergani, & D. Watson, MNRAS, vol. 474,
 issue 2, 12 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2738H/abstract), [PDF](https://arxiv.org/pdf/1711.02706.pdf)]
+
+_Steep extinction towards GRB140506A reconciled from host galaxy observations: Evidence that steep reddening laws are local,_  
+**K. E. Heintz**, J. P. U. Fynbo, P. Jakobsson, T. Krühler, L. Christensen, D.
+Watson, C. Ledoux, P. Noterdaeme, D. A. Perley, H. Rhodin, J. Selsing, S.
+Schulze, N. R. Tanvir, P. Møller, P. Goldoni, D. Xu, & B. Milvang-Jensen, A&A,
+vol. 601, id. A83, 10 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017A%26A...601A..83H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2017/05/aa30702-17.pdf)]
 
 [TBD]
 
