@@ -46,6 +46,10 @@ J.-K. Krogager, G. Pugliese, R. Sánchez-Ramírez, J. Selsing, M. Sparre, N. R.
 Tanvir, C. C. Thöne, A. de Ugarte Postigo, & S. D. Vergani, MNRAS, vol. 479,
 issue 3, 21 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.3456H/abstract), [PDF](https://arxiv.org/pdf/1806.01296.pdf)]
 
+_Unidentified quasars among stationary objects from Gaia DR2,_  
+**K. E. Heintz**, J. P. U. Fynbo, E. Høg, P. Møller, J.-K. Krogager, S. Geier,
+P. Jakobsson, & L. Christensen, A&A, vol. 615, id. L8, 9 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...615L...8H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2018/07/aa33396-18.pdf)]
+
 [TBD]
 
 ## Co-Authored Papers
