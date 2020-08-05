@@ -79,7 +79,7 @@ Arabsalmani, S. Geier, P. Noterdaeme, C. Ledoux, F. G. Saturni, & B. Venemans,
 ApJ, vol. 152, id. 13, 4 pp. (2016) [[ADS](https://ui.adsabs.harvard.edu/abs/2016AJ....152...13H/abstract), [PDF](https://iopscience.iop.org/article/10.3847/0004-6256/152/1/13/pdf)]
 
 _A study of purely astrometric selection of extragalactic point sources with Gaia,_  
-K. E. Heintz, J. P. U. Fynbo, & E. Høg, A&A, vol. 578, id. A91, 4 pp. (2015) [[ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...578A..91H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2015/06/aa26038-15.pdf)]
+**K. E. Heintz**, J. P. U. Fynbo, & E. Høg, A&A, vol. 578, id. A91, 4 pp. (2015) [[ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...578A..91H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2015/06/aa26038-15.pdf)]
 
 ## Co-Authored Papers
 
