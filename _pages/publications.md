@@ -26,4 +26,7 @@ P. Schady, J. Selsing, R. Starling, N. R. Tanvir, C. C. Thöne, A. de Ugarte
 Postigo, S. D. Vergani, D. Watson, K. Wiersema, & T. Zafar, A&A, vol. 629, id.
 A131, 21 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019A%26A...629A.131H/abstract), [PDF](https://arxiv.org/pdf/1908.02309.pdf)]
 
-
+_On the dust properties of high-redshift molecular clouds and the connection to the 2175 Å extinction bump,_  
+**K. E. Heintz**, T. Zafar, A. De Cia, S. D. Vergani, P. Jakobsson, J. P. U.
+Fynbo, D. Watson, J. Japelj, P. Møller, S. Covino, L. Kaper, & A. C. Andersen,
+MNRAS, vol. 486, issue 2, 12 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.2063H/abstract), [PDF](https://arxiv.org/pdf/1904.04301.pdf)]
