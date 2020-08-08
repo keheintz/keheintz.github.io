@@ -17,4 +17,5 @@ thekosmoskasper@gmail.com (outreach)
 @KosmosKasper
 
 **Currently employed:**  
-Postdoctoral researcher at the Centre for Astrophysics and Cosmology, Science Institute, University of Iceland, Dunhagi 5, 107 Reykjavík, Iceland
+Postdoctoral researcher at the Centre for Astrophysics and Cosmology,   
+Science Institute, University of Iceland, Dunhagi 5, 107 Reykjavík, Iceland
