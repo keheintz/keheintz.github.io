@@ -18,4 +18,4 @@ Hello there, my name is Kasper and I am currently a Postdoctoral researcher at t
 
 Here on my homepage you will find a brief description of the research projects I am involved in, my CV, and a list of my publications.
 
-Read about [FRBs](/_pages/frbs.md) here.
+Read about [FRBs](frbs.md) here.
