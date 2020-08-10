@@ -105,4 +105,14 @@ S. Schulze, J. T. Palmerio, S. D. Vergani, N. R Tanvir, K. Bensch, S. Covino, V.
 J. P. U. Fynbo, D. Hartmann, **K. E. Heintz**, A. J. van der Horst, L. Izzo, P. Jakobsson, K. C. Y. Ng, D. A. Perley,
 A. Rossi, B. Sbarufatti, R. Salvaterra, R. Sánchez-Ramírez, D. Watson, & D. Xu, A&A, vol. 633, id. A68, 10 pp. (2020)
 [[ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...633A..68D/abstract), [PDF](https://arxiv.org/pdf/1911.07876.pdf)]
-[TBD]
+
+*GRB 171010A/SN 2017htp: a GRB-SN at z = 0.33,*  
+A. Melandri, D. B. Malesani, L. Izzo, J. Japelj, S. D. Vergani, P. Schady, A. Sagués Carracedo, A. de Ugarte Postigo,
+J. P. Anderson, C. Barbarino, J. Bolmer, A. Breeveld, P. Calissendorff, S. Campana, Z. Cano, R. Carini, S. Covino,
+P. D'Avanzo, V. D'Elia, M. della Valle, M. De Pasquale, J. P. U. Fynbo, M. Gromadzki, F. Hammer, D. H. Hartmann,
+**K. E. Heintz**, C. Inserra, P. Jakobsson, D. A. Kann, J. Kotilainen, K. Maquire, N. Masetti, M. Nicholl, E. F Olivares,
+G. Pugliese, A. Rossi, R. Salvaterra, J. Sollerman, M. B. Stone, G. Tagliaferri, L. Tomasella, C. C. Thöne, D. Xu, & D. R Young,
+MNRAS, vol. 490, issue 4, 9 pp. (2019)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.5366M/abstract), [PDF](https://arxiv.org/pdf/1910.14160.pdf)]
+
+[TO BE COMPLETED]
