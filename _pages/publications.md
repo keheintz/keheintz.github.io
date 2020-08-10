@@ -87,6 +87,13 @@ _A study of purely astrometric selection of extragalactic point sources with Gai
 C. J. Law, B. J. Butler, J. X. Prochaska, B. Zackay, S. Burke-Spolaor,
 A. Mannings, N. Tejos, A. Josephy, B. Andersen, P. Chawla, **K. E. Heintz**, K. Aggerwal,
 G. C. Bower, P. B. Demorest, C. D. Kilpatrick, T. J. W. Lazio, J. Linford, R.
-Kckinven, S. Tendulkar, S. Simha, ApJ (in press), arXiv:2007.02155 (2020), [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200702155L/abstract), [PDF](https://arxiv.org/pdf/2007.02155.pdf)]
+Kckinven, S. Tendulkar, & S. Simha, ApJ (in press), arXiv:2007.02155 (2020), [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200702155L/abstract), [PDF](https://arxiv.org/pdf/2007.02155.pdf)]
+
+*Serendipitous Discovery of a Physical Binary Quasar at z = 1.76,*  
+E. Altamura, S. Brennan, A. Leśniewska, V. Pintér, S. N. dos Reis, T. Pursimo, J. P. U. Fynbo,
+S. Geier, **K. E. Heintz**, & P. Møller, AJ, vol. 159, id. 122, 15 pp. (2020) 
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020AJ....159..122A/abstract), [PDF](https://arxiv.org/pdf/1910.04502.pdf)]
+
+
 
 [TBD]
