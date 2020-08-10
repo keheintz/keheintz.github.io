@@ -13,7 +13,7 @@ might not be updated, so please also check
 or [ORCID](https://orcid.org/0000-0002-9389-7413). My publication record include 12 refereed publications as first author and 31 as co-author.  
 **h-index** (number of publications with more than h citations): 15  
 **Total number of citations:** 2276  
-(as of 10/08 - 2020)
+(as of Aug. 10, 2020)
 
 
 ## First-Authored Papers
