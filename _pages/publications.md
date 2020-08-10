@@ -116,4 +116,25 @@ G. Pugliese, A. Rossi, R. Salvaterra, J. Sollerman, M. B. Stone, G. Tagliaferri,
 MNRAS, vol. 490, issue 4, 9 pp. (2019)
 [[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.5366M/abstract), [PDF](https://arxiv.org/pdf/1910.14160.pdf)]
 
+*Silicon and iron dust in gamma-ray burst host galaxy absorbers,*  
+T. Zafar, **K. E. Heintz**, A. Karakas, J. Lattanzio, & A. Ahmed, MNRAS, vol. 490, issue 2, 8 pp. (2019) 
+[[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2599Z/abstract), [PDF](https://arxiv.org/pdf/1910.03207.pdf)]
+
+*The Spectral Evolution of AT 2018dyb and the Presence of Metal Lines in Tidal Disruption Events,*  
+G. Leloudas, L. Dai, I. Arcavi, P. M. Vreeswijk, B. Mockler, R. Roy, D. B. Malesani, S. Schulze, T. Wevers,
+M. Fraser, E. Ramirez-Ruiz, K. Auchettl, J. Burke, G. Cannizzaro, P. Charalampopoulos, T.-W. Chen, A. Cikota,
+M. Della Valle, L. Galbany, M. Gromadzki, **K. E. Heintz**, D. Hiramatsu, P. G. Jonker, Z. Kostrzewa-Rutkowska,
+K. Maquire, I. Mandel, M. Nicholl, F. Onori, N. Roth, S. J. Smartt, L. Wyrzykowski, & D. R. Young, ApJ, vol. 887, id. 218, 15 pp. (2019)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...887..218L/abstract), [PDF](https://arxiv.org/pdf/1903.03120.pdf)]
+
+*Observation of inverse Compton emission from a long γ-ray burst,*  
+MAGIC collaboration; co-author as part of the Nordic GRB team, Nature, vol. 575, issue 7783, 4 pp. (2019)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2019Natur.575..459M/abstract), [PDF](https://arxiv.org/pdf/2006.07251.pdf)]
+
+*Identification of strontium in the merger of two neutron stars,*  
+D. Watson, C. J. Hansen, J. Selsing, A. Koch, D. B. Malesani, A. C. Andersen,
+J. P. U. Fynbo, A. Arcones, A. Bauswein, S. Covino, A. Grado, **K. E. Heintz**, L.
+Hunt, C. Kouveliotou, G. Leloudas, A. J. Levan, P. Mazzali, & E. Pian, Nature,
+vol. 574, issue 7779, 4 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019Natur.574..497W/abstract), [PDF](https://arxiv.org/pdf/1910.10510.pdf)]
+
 [TO BE COMPLETED]
