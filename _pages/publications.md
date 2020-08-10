@@ -94,6 +94,9 @@ E. Altamura, S. Brennan, A. Leśniewska, V. Pintér, S. N. dos Reis, T. Pursimo,
 S. Geier, **K. E. Heintz**, & P. Møller, AJ, vol. 159, id. 122, 15 pp. (2020) 
 [[ADS](https://ui.adsabs.harvard.edu/abs/2020AJ....159..122A/abstract), [PDF](https://arxiv.org/pdf/1910.04502.pdf)]
 
-
+*Gaia-assisted discovery of a detached low-ionisation BAL quasar with very large ejection velocities*,  
+J. P. U. Fynbo, P. Møller, **K. E. Heintz**, J. N. Burchett, L. Christensen, S. J. Geier, P. Jakobsson, J.-K. Krogager,
+C. Ledoux, B. Milvang-Jensen, P. Noterdaeme, J. X. Prochaska, & T. M. Tripp, A&A, vol. 634, id. A111, 6 pp. (2020)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A.111F/abstract), [PDF](https://arxiv.org/pdf/1912.10649.pdf)]
 
 [TBD]
