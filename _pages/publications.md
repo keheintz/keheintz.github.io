@@ -99,4 +99,10 @@ J. P. U. Fynbo, P. Møller, **K. E. Heintz**, J. N. Burchett, L. Christensen, S.
 C. Ledoux, B. Milvang-Jensen, P. Noterdaeme, J. X. Prochaska, & T. M. Tripp, A&A, vol. 634, id. A111, 6 pp. (2020)
 [[ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A.111F/abstract), [PDF](https://arxiv.org/pdf/1912.10649.pdf)]
 
+*GRB 190114C in the nuclear region of an interacting galaxy. A detailed host analysis using ALMA, the HST, and the VLT,*  
+A. de Ugarte Postigo, C. C. Thöne, S. Martín, J. Japelj, A. J. Levan, M. J. Michałowski, J. Selsing, D. A. Kann,
+S. Schulze, J. T. Palmerio, S. D. Vergani, N. R Tanvir, K. Bensch, S. Covino, V. D'Elia, M. De Pasquale, A. S. Fruchter,
+J. P. U. Fynbo, D. Hartmann, **K. E. Heintz**, A. J. van der Horst, L. Izzo, P. Jakobsson, K. C. Y. Ng, D. A. Perley,
+A. Rossi, B. Sbarufatti, R. Salvaterra, R. Sánchez-Ramírez, D. Watson, & D. Xu, A&A, vol. 633, id. A68, 10 pp. (2020)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...633A..68D/abstract), [PDF](https://arxiv.org/pdf/1911.07876.pdf)]
 [TBD]
