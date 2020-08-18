@@ -220,6 +220,39 @@ Martone, P. J. Meintjes, M. J. Michałowski, C. G. Mundell, D. Murphy, S. Oates,
 L. Salmon, B. van Soelen, N. R. Tanvir, D. Turpin, D. Xu, & T. Zafar, A&A, vol.
 620, id. A119, 23 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.119D/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2018/12/aa33094-18.pdf)]
 
+*X-shooting GRBs at high redshift: probing dust production history,*  
+T. Zafar, P. Møller, D. Watson, J. Lattanzio, A. M. Hopkins, A. Karakas, J. P.
+U. Fynbo, N. R. Tanvir, J. Selsing, P. Jakobsson, **K. E. Heintz**, D. A. Kann, B.
+Groves, V. Kulkarni, S. Covino, V. D’Elia, J. Japelj, D. Corre, & S. Vergani,
+MNRAS, vol. 480, issue 1, 10 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480..108Z/abstract), [PDF](https://arxiv.org/pdf/1807.03597.pdf)]
 
+*The properties of GRB 120923A at a spectroscopic redshift of z ≈ 7.8,*  
+N. R. Tanvir, T. Laskar, A. J. Levan, D. A. Perley, J. Zabl, J. P. U. Fynbo, J.
+Rhoads, S. B. Cenko, J. Greiner, K. Wiersema, J. Hjorth, A. Cucchiara, E.
+Berger, M. N. Bremer, Z. Cano, B. E. Cobb, S. Covino, V. D’Elia, W. Fong, A. S.
+Fruchter, P. Goldoni, F. Hammer, **K. E. Heintz**, P. Jakobsson, D. A. Kann, L.
+Kaper, S. Klose, F. Knust, T. Krühler, D. Malesani, K. Misra, A. Nicuesa
+Guelbenzu, G. Pugliese, R. Sánchez-Ramírez, S. Schulze, E. R. Stanway, A. de
+Ugarte Postigo, D. Watson, R. A. M. J. Wijers, & D. Xu, ApJ, vol. 865, id. 107,
+16 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018ApJ...865..107T/abstract), [PDF](https://iopscience.iop.org/article/10.3847/1538-4357/aadba9/pdf)]
+
+*ALMA observations of a metal-rich damped Lyα absorber at z = 2.5832: evidence for strong galactic winds in a galaxy group,*  
+J. P. U. Fynbo, **K. E. Heintz**, M. Neeleman, L. Christensen, M. Dessauges-
+Zavadsky, N. Kanekar, P. Møller, J. X. Prochaska, N. H. P. Rhodin, & M. Zwaan,
+MNRAS, vol. 479, issue 2, 6 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2126F/abstract), [PDF](https://arxiv.org/pdf/1806.01715.pdf)]
+
+*VLT/X-shooter GRBs: Individual extinction curves of star-forming regions,*  
+T. Zafar, D. Watson, P. Møller, J. Selsing, J. P. U. Fynbo, P. Schady, K.
+Wiersema, A. J. Levan, **K. E. Heintz**, A. de Ugarte Postigo, V. D’Elia, P.
+Jakobsson, J. Bolmer, J. Japelj, S. Covino, A. Gomboc, & Z. Cano, MNRAS, vol.
+479, issue 2, 12 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.1542Z/abstract), [PDF](https://arxiv.org/pdf/1805.07016.pdf)]
+
+*The host galaxy of the short GRB 111117A at z = 2.211. Impact on the short GRB redshift distribution and progenitor channels,*  
+J. Selsing, T. Krühler, D. Malesani, P. D’Avanzo, S. Schulze, S. D. Vergani, J.
+Palmerio, J. Japelj, B. Milvang-Jensen, D. Watson, P. Jakobsson, J. Bolmer, Z.
+Cano, S. Covino, V. D’Elia, A. de Ugarte Postigo, J. P. U. Fynbo, A. Gomboc, **K.
+E. Heintz**, L. Kaper, A. J. Levan, S. Piranomonte, G. Pugliese, R.
+Sánchez-Ramírez, M. Sparre, N. R. Tanvir, C. C. Thöne, & K. Wiersema, A&A, vol.
+616, id. A48, 11 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...616A..48S/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2018/08/aa31475-17.pdf)]
 
 [TO BE COMPLETED]
