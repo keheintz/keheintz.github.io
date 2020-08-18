@@ -304,5 +304,3 @@ R. Tanvir, & K. Wiersema, A&A, vol. 605, id. A107, 21 pp. (2017) [[ADS](https://
 J.-K. Krogager, J. P. U. Fynbo, **K. E. Heintz**, S. Geier, C. Ledoux, P. Møller,
 P. Noterdaeme, B. Venemans, & M. Vestergaard, ApJ, vol. 832, id. 49, 21 pp.
 (2016) [[ADS](https://ui.adsabs.harvard.edu/abs/2016ApJ...832...49K/abstract), [PDF](https://iopscience.iop.org/article/10.3847/0004-637X/832/1/49/pdf)]
-
-[TO BE COMPLETED]
