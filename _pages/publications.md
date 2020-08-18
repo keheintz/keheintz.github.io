@@ -255,4 +255,51 @@ E. Heintz**, L. Kaper, A. J. Levan, S. Piranomonte, G. Pugliese, R.
 Sánchez-Ramírez, M. Sparre, N. R. Tanvir, C. C. Thöne, & K. Wiersema, A&A, vol.
 616, id. A48, 11 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...616A..48S/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2018/08/aa31475-17.pdf)]
 
+*The 2175 Å Extinction Feature in the Optical Afterglow Spectrum of GRB 180325A at z = 2.25,*  
+T. Zafar, **K. E. Heintz**, J. P. U. Fynbo, D. Malesani, J. Bolmer, C. Ledoux, M.
+Arabsalmani, L. Kaper, S. Campana, R. L. C. Starling, J. Selsing, D. A. Kann,
+A. de Ugarte Postigo, T. Schweyer, L. Christensen, P. Møller, J. Japelj, D.
+Perley, N. R. Tanvir, P. D’Avanzo, D. H. Hartmann, J. Hjorth, S. Covino, B.
+Sbarufatti, P. Jakobsson, L. Izzo, R. Salvaterra, V. D’Elia, & D. Xu, ApJL,
+vol. 860, id. L21, 7 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..21Z/abstract), [PDF](https://iopscience.iop.org/article/10.3847/2041-8213/aaca3f/pdf)]
+
+*Mass and metallicity scaling relations of high-redshift star-forming galaxies selected by GRBs,*  
+M. Arabsalmani, P. Møller, D. A. Perley, W. Freudling, J. P. U. Fynbo, E. Le
+Floc’h, M. A. Zwaan, S. Schulze, N. R. Tanvir, L. Christensen, A. J. Levan, P.
+Jakobsson, D. Malesani, Z. Cano, S. Covino, V. D’Elia, P. Goldoni, A. Gomboc,
+**K. E. Heintz**, M. Sparre, A. de Ugarte Postigo, & S. D. Vergani, MNRAS, vol.
+473, issue 3, 13 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.3312A/abstract), [PDF](https://arxiv.org/pdf/1709.06574.pdf)]
+
+*Solving the conundrum of intervening strong Mg II absorbers towards gamma-ray bursts and quasars,*  
+L. Christensen, S. D. Vergani, S. Schulze, N. Annau, J. Selsing, J. P. U.
+Fynbo, A. de Ugarte Postigo, R. Cañameras, S. Lopez, D. Passi, P.
+Cortés-Zuleta, S. L. Ellison, V. D’Odorico, G. Becker, T. A. M. Berg, Z. Cano,
+S. Covino, G. Cupani, V. D’Elia, P. Goldoni, A. Gomboc, F. Hammer, **K. E.
+Heintz**, P. Jakobsson, J. Japelj, L. Kaper, D. Malesani, P. Møller, P.
+Petitjean, G. Pugliese, R. Sánchez-Ramírez, N. R. Tanvir, C. C. Thöne, M.
+Vestergaard, K. Wiersema, & G. Worseck, G., A&A, vol. 608, id. A84, 10 pp.
+(2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017A%26A...608A..84C/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2017/12/aa31382-17.pdf)]
+
+*A kilonova as the electromagnetic counterpart to a gravitational-wave source,*  
+Smartt, S. J., et al. (2017); co-author #59 (out of 121), Nature, vol. 551,
+issue 7678, 51 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017Natur.551...75S/abstract), [PDF](https://arxiv.org/pdf/1710.05841.pdf)]
+
+*Multi-messenger Observations of a Binary Neutron Star Merger,*  
+LIGO/VIRGO & follow-up collaboration; co-author as part of ePESSTO, ApJL, vol.
+848, id. L12, 59 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017ApJ...848L..12A/abstract), [PDF](https://iopscience.iop.org/article/10.3847/2041-8213/aa91c9/pdf)]
+
+*The High AV Quasar survey: A z = 2.027 metal-rich damped Lyman-α absorber towards a red quasar at z = 3.21,*  
+J. P. U. Fynbo, J.-K. Krogager, **K. E. Heintz**, S. Geier, P. Møller, P.
+Noterdaeme, L. Christensen, C. Ledoux, & P. Jakobsson, A&A, vol. 606, id. A13,
+6 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017A%26A...606A..13F/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2017/10/aa30726-17.pdf)]
+
+*GRB 161219B / SN 2016jca: A low-redshift gamma-ray burst supernova powered by radioactive heating,*  
+Z. Cano, L. Izzo, A. de Ugarte Postigo, C. C. Thöne, T. Krühler, **K. E. Heintz**,
+D. Malesani, S. Geier, C. Fuentes, T.-W. Chen, S. Covino, V. D’Elia, J. P. U.
+Fynbo, P. Goldoni, A. Gomboc, J. Hjorth, P. Jakobsson, D. A. Kann, B.
+Milvang-Jensen, G. Pugliese, R. Sánchez-Ramírez, S. Schulze, J. Sollerman, N.
+R. Tanvir, & K. Wiersema, A&A, vol. 605, id. A107, 21 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017A%26A...605A.107C/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2017/09/aa31005-17.pdf)]
+
+
+
 [TO BE COMPLETED]
