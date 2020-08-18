@@ -141,6 +141,33 @@ vol. 574, issue 7779, 4 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019
 L. Christensen, P. Møller, N. H. P. Rhodin, **K. E. Heintz**, & J. P. U. Fynbo,
 MNRAS, vol. 489, issue 2, 10 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2270C/abstract), [PDF](https://arxiv.org/pdf/1908.05363.pdf)]
 
+*Short GRB 160821B: A reverse shock, a refreshed shock, and a well-sampled kilonova,*  
+G. P. Lamb, N. R. Tanvir, A. J. Levan, A. de Ugarte Postigo, K. Kawaguchi, A.
+Corsi, P. A. Evans, B. Gompertz, D. B. Malesani, K. L. Page, K. Wiersema, S.
+Rosswog, M. Shibata, M. Tanaka, A. J. van der Horst, Z. Cano, J. P. U. Fynbo,
+A. S. Fruchter, J. Greiner, **K. E. Heintz**, A. Higgins, J. Hjorth, L. Izzo, P.
+Jakobsson, D. A. Kann, P. T. O’Brien, D. A. Perley, E. Pian, G. Pugliese, R. L.
+C. Starling, C. C. Thöne, D. Watson, R. A. M. J. Wijers, & D. Xu, ApJ, vol.
+883, id. 48, 12 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...883...48L/abstract), [PDF](https://arxiv.org/pdf/1905.02159.pdf)]
 
+*The effect of dust bias on the census of neutral gas and metals in the high-redshift Universe due to SDSS-II quasar colour selection,*  
+J. K. Krogager, J. P. U. Fynbo, P. Møller, P. Noterdaeme, **K. E. Heintz**, & M.
+Pettini, MNRAS, vol. 486, issue 3, 21 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.4377K/abstract), [PDF](https://arxiv.org/pdf/1904.06966.pdf)]
+
+*Gaia-assisted selection of a quasar reddened by dust in an extremely strong damped Lyman-α absorber at z=2.226,*  
+S. J. Geier, **K. E. Heintz**, J. P. U. Fynbo, C. Ledoux, L. Christensen, P.
+Jakobsson, J.-K. Krogager, B. Milvang-Jensen, P. Møller, & P. Noterdaeme, A&A,
+vol. 625, id. L9, 5 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019A%26A...625L...9G/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2019/05/aa35108-19.pdf)]
+
+*The fraction of ionizing radiation from massive stars that escapes to the intergalactic medium,*  
+N. R. Tanvir, J. P. U. Fynbo, A. de Ugarte Postigo, J. Japelj, K. Wiersema, D.
+Malesani, D. A. Perley, A. J. Levan, J. Selsing, S. B. Cenko, D. A. Kann, B.
+Milvang-Jensen, E. Berger, Z. Cano, R. Chornock, S. Covino, A. Cucchiara, V.
+D’Elia, A. Gargiulo, P. Goldoni, A. Gomboc, **K. E. Heintz**, J. Hjorth, L. Izzo,
+P. Jakobsson, L. Kaper, T. Krühler, T. Laskar, M. Myers, S. Piranomonte, G.
+Pugliese, A. Rossi, R. Sánchez-Ramírez, S. Schulze, M. Sparre, E. R. Stanway,
+G. Tagliaferri, C. C. Thöne, S. D. Vergani, P. M. Vreeswijk, R. A. M. J.
+Wijers, D. Watson, & D. Xu, MNRAS, vol. 483, issue 4, 29 pp. (2019)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5380T/abstract), [PDF](https://arxiv.org/pdf/1805.07318.pdf)]
 
 [TO BE COMPLETED]
