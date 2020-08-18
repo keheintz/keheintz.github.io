@@ -137,4 +137,10 @@ J. P. U. Fynbo, A. Arcones, A. Bauswein, S. Covino, A. Grado, **K. E. Heintz**, 
 Hunt, C. Kouveliotou, G. Leloudas, A. J. Levan, P. Mazzali, & E. Pian, Nature,
 vol. 574, issue 7779, 4 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019Natur.574..497W/abstract), [PDF](https://arxiv.org/pdf/1910.10510.pdf)]
 
+*Exploring galaxy dark matter haloes across redshifts with strong quasar absorbers,*  
+L. Christensen, P. Møller, N. H. P. Rhodin, **K. E. Heintz**, & J. P. U. Fynbo,
+MNRAS, vol. 489, issue 2, 10 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2270C/abstract), [PDF](https://arxiv.org/pdf/1908.05363.pdf)]
+
+
+
 [TO BE COMPLETED]
