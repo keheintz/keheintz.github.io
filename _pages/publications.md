@@ -170,4 +170,56 @@ G. Tagliaferri, C. C. Thöne, S. D. Vergani, P. M. Vreeswijk, R. A. M. J.
 Wijers, D. Watson, & D. Xu, MNRAS, vol. 483, issue 4, 29 pp. (2019)
 [[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5380T/abstract), [PDF](https://arxiv.org/pdf/1805.07318.pdf)]
 
+*The X-shooter GRB afterglow legacy sample (XS-GRB),*  
+J. Selsing, D. Malesani, P. Goldoni, J. P. U. Fynbo, T. Krühler, L. A.
+Antonelli, M. Arabsalmani, J. Bolmer, Z. Cano, L. Christensen, S. Covino, P.
+D’Avanzo, V. D’Elia, A. De Cia, A. de Ugarte Postigo, H. Flores, M. Friis, A.
+Gomboc, J. Greiner, P. Groot, F. Hammer, O. E. Hartoog, **K. E. Heintz**, J.
+Hjorth, P. Jakobsson, J. Japelj, D. A. Kann, L. Kaper, C. Ledoux, G. Leloudas,
+A. J. Levan, E. Maiorano, A. Melandri, B. Milvang-Jensen, E. Palazzi, J. T.
+Palmerio, D. A. Perley, E. Pian, S. Piranomonte, G. Pugliese, R.
+Sánchez-Ramírez, S. Savaglio, P. Schady, S. Schulze, J. Sollerman, M. Sparre,
+G. Tagliaferri, N. R. Tanvir, C. C. Thöne, S. D. Vergani, P. Vreeswijk, D.
+Watson, K. Wiersema, R. Wijers, D. Xu, & T. Zafar, A&A, vol. 623, id. A92, 42
+pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A..92S/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2019/03/aa32835-18.pdf)]
+
+*Evidence for diffuse molecular gas and dust in the hearts of gamma-ray burst host galaxies. Unveiling the nature of high-redshift damped Lyman-α systems,*  
+J. Bolmer, C. Ledoux, P. Wiseman, A. De Cia, J. Selsing, P. Schady, J. Greiner,
+S. Savaglio, J. M. Burgess, V. D’Elia, J. P. U. Fynbo, P. Goldoni, P. H.
+Hartmann, **K. E. Heintz**, P. Jakobsson, J. Japelj, L. Kaper, N. R. Tanvir, P. M.
+Vreeswijk, & T. Zafar, A&A, vol. 623, id. A43, 45 pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A..43B/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2019/03/aa34422-18.pdf)]
+
+*The intergalactic magnetic field probed by a giant radio galaxy,*  
+S. P. O’Sullivan, J. Machalski, C. L. Van Eck, G. Heald, M. Brüggen, J. P. U.
+Fynbo, **K. E. Heintz**, M. A. Lara-Lopez, V. Vacca, M. J. Hardcastle, T. W.
+Shimwell, C. Tasse, F. Vazza, H. Andernach, M. Birkinshaw, M. Haverkorn, C.
+Horellou, W. L. Williams, J. J. Harwood, G. Brunetti, J. M. Anderson, S. A.
+Mao, B. Nikiel-Wroczynski, K. Takahashi, E. Carretti, T. Vernstrom, R. J. van
+Weeren, E. Orrú, L. K. Morabito, & J. R. Callingham, A&A, vol. 622, id. A16, 12
+pp. (2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..16O/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2019/02/aa33832-18.pdf)]
+
+*Signatures of a jet cocoon in early spectra of a supernova associated with a γ-ray burst,*  
+L. Izzo, A. de Ugarte Postigo, K. Maeda, C. C. Thöne, D. A. Kann, M. Della
+Valle, A. Sagues Carracedo, M. J. Michałowski, P. Schady, S. Schmidl, J.
+Selsing, R. L. C. Starling, A. Suzuki, K. Bensch, J. Bolmer, S. Campana, Z.
+Cano, S. Covino, J. P. U. Fynbo, D. H. Hartmann, **K. E. Heintz**, J. Hjorth, J.
+Japelj, K. Kaminski, L. Kaper, C. Kouveliotou, M. Kruzynski, T. Kwiatkowski, G.
+Leloudas, A. J. Levan, D. B. Malesani, T. Michałowski, S. Piranomonte, G
+Pugliese, A. Rossi, R. Sánchez-Ramírez, S. Schulze, D. Steeghs, N. R. Tanvir,
+K. Ulaczyk, S. D. Vergani, & K. Wiersema, Nature, vol. 565, issue 7739, 4 pp.
+(2019) [[ADS](https://ui.adsabs.harvard.edu/abs/2019Natur.565..324I/abstract), [PDF](https://arxiv.org/pdf/1901.05500.pdf)]
+
+*X-shooter and ALMA spectroscopy of GRB 161023A. A study of metals and molecules in the line of sight towards a luminous GRB,*  
+A. de Ugarte Postigo, C. C. Thöne, J. Bolmer, S. Schulze, S. Martín, D. A.
+Kann, V. D’Elia, J. Selsing, A. Martin-Carrillo, D. A. Perley, S. Kim, L. Izzo,
+R. Sánchez-Ramírez, C. Guidorzi, A. Klotz, K. Wiersema, F. E. Bauer, K. Bensch,
+S. Campana, Z. Cano, S. Covino, D. Coward, A. De Cia, I. de Gregorio-Monsalvo,
+M. De Pasquale, J. P. U. Fynbo, J. Greiner, A. Gomboc, L. Hanlon, M. Hansen, D.
+H. Hartmann, **K. E. Heintz**, P. Jakobsson, S. Kobayashi, D. B. Malesani, R.
+Martone, P. J. Meintjes, M. J. Michałowski, C. G. Mundell, D. Murphy, S. Oates,
+L. Salmon, B. van Soelen, N. R. Tanvir, D. Turpin, D. Xu, & T. Zafar, A&A, vol.
+620, id. A119, 23 pp. (2018) [[ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.119D/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2018/12/aa33094-18.pdf)]
+
+
+
 [TO BE COMPLETED]
