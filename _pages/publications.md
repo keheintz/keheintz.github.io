@@ -288,7 +288,7 @@ issue 7678, 51 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017Natur.551
 LIGO/VIRGO & follow-up collaboration; co-author as part of ePESSTO, ApJL, vol.
 848, id. L12, 59 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017ApJ...848L..12A/abstract), [PDF](https://iopscience.iop.org/article/10.3847/2041-8213/aa91c9/pdf)]
 
-*The High AV Quasar survey: A z = 2.027 metal-rich damped Lyman-α absorber towards a red quasar at z = 3.21,*  
+*The High A<sub>V</sub> Quasar survey: A z = 2.027 metal-rich damped Lyman-α absorber towards a red quasar at z = 3.21,*  
 J. P. U. Fynbo, J.-K. Krogager, **K. E. Heintz**, S. Geier, P. Møller, P.
 Noterdaeme, L. Christensen, C. Ledoux, & P. Jakobsson, A&A, vol. 606, id. A13,
 6 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017A%26A...606A..13F/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2017/10/aa30726-17.pdf)]
@@ -300,6 +300,9 @@ Fynbo, P. Goldoni, A. Gomboc, J. Hjorth, P. Jakobsson, D. A. Kann, B.
 Milvang-Jensen, G. Pugliese, R. Sánchez-Ramírez, S. Schulze, J. Sollerman, N.
 R. Tanvir, & K. Wiersema, A&A, vol. 605, id. A107, 21 pp. (2017) [[ADS](https://ui.adsabs.harvard.edu/abs/2017A%26A...605A.107C/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2017/09/aa31005-17.pdf)]
 
-
+*The Extended High A(V) Quasar Survey: Searching for Dusty Absorbers Toward Mid-infrared Selected Quasars,*  
+J.-K. Krogager, J. P. U. Fynbo, **K. E. Heintz**, S. Geier, C. Ledoux, P. Møller,
+P. Noterdaeme, B. Venemans, & M. Vestergaard, ApJ, vol. 832, id. 49, 21 pp.
+(2016) [[ADS](https://ui.adsabs.harvard.edu/abs/2016ApJ...832...49K/abstract), [PDF](https://iopscience.iop.org/article/10.3847/0004-637X/832/1/49/pdf)]
 
 [TO BE COMPLETED]
