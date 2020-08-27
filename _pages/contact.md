@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Currently employed:**
+**Currently employed:**  
 Postdoctoral researcher at the Centre for Astrophysics and Cosmology,
 Science Institute, University of Iceland, Dunhagi 5, 107 Reykjavík, Iceland
 
