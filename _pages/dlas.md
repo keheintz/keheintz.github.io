@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Damped Lyman-$\alpha$ Absorbers"
+title: "Damped Lyman-\alpha Absorbers"
 permalink: /dlas/
 author_profile: true
 redirect_from:

@@ -18,7 +18,7 @@ gravitational wave sources ([kilonovae](kilonovae.md)), and
 [quasars](quasars.md).
 These cosmic light houses are powerful probes of the interstellar and
 intergalactic gas in and beyond galaxies in the line of sight, where I have
-been particularly interested in damped Lyman-$alpha$ absorbers
+been particularly interested in damped Lyman-\alpha absorbers
 ([DLAs](dlas.md)).
 
 
