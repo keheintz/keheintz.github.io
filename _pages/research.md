@@ -16,7 +16,7 @@ energetic, transient phenomena such as fast radio bursts ([FRBs](frbs.md)),
 gamma-ray bursts ([GRBs](grbs.md)), electromagnetic counterparts to
 gravitational wave sources ([kilonovae](kilonovae.md)), and
 [quasars](quasars.md).
-These cosmic light houses are powerful probes of the interstellar and
+These cosmic lighthouses are powerful probes of the interstellar and
 intergalactic gas in and beyond galaxies in the line of sight, where I have
 been particularly interested in damped Lyman-α absorbers
 ([DLAs](dlas.md)).
