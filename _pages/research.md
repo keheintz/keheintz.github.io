@@ -17,9 +17,9 @@ gamma-ray bursts ([GRBs](grbs.md)), electromagnetic counterparts to
 gravitational wave sources ([kilonovae](kilonovae.md)), and
 [quasars](quasars.md).
 These cosmic lighthouses are powerful probes of the interstellar and
-intergalactic gas in and beyond galaxies in the line of sight, where I have
-been particularly interested in damped Lyman-α absorbers
-([DLAs](dlas.md)).
+intergalactic gas in and beyond galaxies in the line of sight. I have
+particular been interested in the specific population of absorption systems
+known as damped Lyman-α absorbers ([DLAs](dlas.md)).
 
 
 Active collaborations
