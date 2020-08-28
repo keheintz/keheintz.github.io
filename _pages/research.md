@@ -27,6 +27,8 @@ Active collaborations
 * **The fast and fortunate for FRB follow-up
 ([F<sup>4</sup>](https://sites.google.com/ucolick.org/f-4), PI: J. X. Prochaska)** 
 team is dedicated to the follow-up of fast radio bursts and their host galaxies
-from optical to infrared wavelengths.
+at optical to infrared wavelengths. Our main science goals are to constrain the
+FRB progenitor(s) through population studies of their host galaxies and to
+disentangle the cosmic web correlated with foreground galaxies and their halos.
 
 * Add more
