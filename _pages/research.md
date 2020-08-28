@@ -24,5 +24,9 @@ known as damped Lyman-α absorbers ([DLAs](dlas.md)).
 
 Active collaborations
 ======
-* **The fast and fortunate for FRB follow-up ([F<sup>4</sup>](https://sites.google.com/ucolick.org/f-4))** team is dedicated to xx.
+* **The fast and fortunate for FRB follow-up
+([F<sup>4</sup>](https://sites.google.com/ucolick.org/f-4), PI: J. X. Prochaska)** 
+team is dedicated to the follow-up of fast radio bursts and their host galaxies
+from optical to infrared wavelengths.
+
 * Add more
