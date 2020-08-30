@@ -31,7 +31,7 @@ at optical to infrared wavelengths. Our main science goals are to constrain the
 FRB progenitor(s) through population studies of their host galaxies and to
 disentangle the cosmic web correlated with foreground galaxies and their halos.
 
-* [ENGRAVE](http://www.engrave-eso.org) is a newly founded collaboration,
+* **[ENGRAVE](http://www.engrave-eso.org)** is a newly founded collaboration,
 performing follow-up observations of **E**lectromag**n**etic counterparts of
 **gra**vitational wave sources at the **Ve**ry Large Telescope detected by
 LIGO/Virgo. The overarching goal of this consortium is to use Target of
