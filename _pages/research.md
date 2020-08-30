@@ -43,6 +43,6 @@ gravitational wave (burst-type) events.
 collaboration, now searching for the most exotic GRBs. We have access to
 almost all instruments mounted at the four VLT unit telescopes, including
 several other instruments mounted at smaller telescopes all over the world
-(such as the NOT). The main science goals of this programme is to investigate
+(such as the NOT). The main science goals of this programme are to investigate
 and obtain follow-up observations of high-redshift GRBs, short GRBs and
 otherwise peculiar transients.
