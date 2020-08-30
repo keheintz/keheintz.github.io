@@ -39,3 +39,10 @@ Opportunity observations on the VLT targeting optical to mid-infrared follow-up
 of merging compact sources such as NS-NS or BH-NS as well as other
 gravitational wave (burst-type) events. 
 
+* **Stargate (PI: Nial R. Tanvir)** is the continuation of the [XS-GRB](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A..92S/abstract)
+collaboration, now searching for the most exotic GRBs. We have access to
+almost all instruments mounted at the four VLT unit telescopes, including
+several other instruments mounted at smaller telescopes all over the world
+(such as the NOT). The main science goals of this programme is to investigate
+and obtain follow-up observations of high-redshift GRBs, short GRBs and
+otherwise peculiar transients.
