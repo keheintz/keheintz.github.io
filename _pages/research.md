@@ -46,3 +46,9 @@ several other instruments mounted at smaller telescopes all over the world
 (such as the NOT). The main science goals of this programme are to investigate
 and obtain follow-up observations of high-redshift GRBs, short GRBs and
 otherwise peculiar transients.
+
+* **The extended Public ESO Spectroscopic Survey of Transient Objects ([ePESSTO+](http://www.pessto.org), PI: Cosimo Inserra)** 
+is dedicated to observe and follow-up a large variety of exciting new
+transients such as gravitational wave sources, superluminous supernovae, tidal
+disruption events and gamma-ray bursts using the New Technology Telescope at
+the ESO La Silla observatory.
