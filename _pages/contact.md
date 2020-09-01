@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-**Currently employed:**  
+**Position(s):**  
 Postdoctoral researcher at the Centre for Astrophysics and Cosmology,  
 Science Institute, University of Iceland, Dunhagi 5, 107 Reykjavík, Iceland
 
-Also serving as Instrument Scientist for the NOT Transient Explorer ([NTE](https://nte.nbi.ku.dk)) 
+Instrument Scientist for the NOT Transient Explorer ([NTE](https://nte.nbi.ku.dk)) 
 
 **E-mail(s):**  
 keh14@hi.is (research)  
