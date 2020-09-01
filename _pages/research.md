@@ -47,6 +47,14 @@ several other instruments mounted at smaller telescopes all over the world
 and obtain follow-up observations of high-redshift GRBs, short GRBs and
 otherwise peculiar transients.
 
+* **The 4MOST-Gaia Purely Astrometric Quasar Survey (4G-PAQS, PI: Jens-Kristian Krogager)**
+is a collaboration formed to utilize the 4-metre Multi-Object Spectroscopic
+Telescope (4MOST) soon to be installed on the ESO VISTA telescope. This project
+aims at obtaining spectroscopy of all zero-proper-motion quasar candidates at
+Galactic latitudes *b* < -60 deg and brighter than G = 20.5 mag. The overall
+goal is to study the evolution of neutral hydrogen and metals over cosmic time
+and the impact of black hole feedback and outflows on galaxy evolution. 
+
 * **The extended Public ESO Spectroscopic Survey of Transient Objects ([ePESSTO+](http://www.pessto.org), PI: Cosimo Inserra)** 
 is dedicated to observe and follow-up a large variety of exciting new
 transients such as gravitational wave sources, superluminous supernovae, tidal
