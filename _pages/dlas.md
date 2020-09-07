@@ -15,5 +15,5 @@ DLAs are observed in absorption toward GRBs and quasars.
   <img src="https://keheintz.github.io/files/QSODLA.png?raw=true" alt="Photo" style="width: 750px;"/>
 </p>
 
-[TBD]
+Here will be added some more text on DLAs.
 
