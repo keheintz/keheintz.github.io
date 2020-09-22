@@ -10,10 +10,11 @@ redirect_from:
 Here is a list of all my published and refereed first- and co-author papers. This list
 might not be updated, so please also check
 [ADS](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=author%3A%22Heintz%2C%20K.%20E.%22%20year%3A2015-2020&sort=date%20desc%2C%20bibcode%20desc&p_=0)
-or [ORCID](https://orcid.org/0000-0002-9389-7413). My publication record include 12 refereed publications as first author and 31 as co-author.  
+or [ORCID](https://orcid.org/0000-0002-9389-7413). My publication record
+include 12 refereed publications as first author and 33 as co-author.  
 **h-index** (number of publications with more than h citations): 15  
-**Total number of citations:** 2302  
-(as of Aug. 18, 2020)
+**Total number of citations:** 2375  
+(as of Sep. 22, 2020)
 
 
 ## First-Authored Papers
@@ -86,11 +87,21 @@ _A study of purely astrometric selection of extragalactic point sources with Gai
 
 ## Co-Authored Papers
 
-*A Distant Fast Radio Burst Associated to its Host Galaxy with the Very Large Array,*  
+*Lyman continuum leakage in faint star-forming galaxies at redshift z = 3-3.5 probed by gamma-ray bursts,*  
+J.-B. Vielfaure, S. D. Vergani, J. Japelj, J. P. U. Fynbo, M. Gronkle, **K. E.
+Heintz**, D. B. Malesani, P. Petitjean, N. R. Tanvir, V. D'Elia, D. A. Kann, J.
+T. Palmerio, R. Salvaterra, K. Wiersema, M. Arabsalmani, S. Campana, S. Covino,
+M. De Pasquale, A. de Ugarte Postigo, F. Hammer, D. H. Hartmann, P. Jakobsson,
+C. Kouveliotou, T. Laskar, A. J. Levan, & A. Rossi, A&A, vol. 641, id. A30, 12 pp. (2020)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...641A..30V/abstract), [PDF](https://arxiv.org/pdf/2006.09377.pdf)]
+
+*A Distant Fast Radio Burst Associated with Its Host Galaxy by the Very Large Array,*  
 C. J. Law, B. J. Butler, J. X. Prochaska, B. Zackay, S. Burke-Spolaor,
 A. Mannings, N. Tejos, A. Josephy, B. Andersen, P. Chawla, **K. E. Heintz**, K. Aggerwal,
 G. C. Bower, P. B. Demorest, C. D. Kilpatrick, T. J. W. Lazio, J. Linford, R.
-Kckinven, S. Tendulkar, & S. Simha, ApJ (in press), arXiv:2007.02155 (2020), [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200702155L/abstract), [PDF](https://arxiv.org/pdf/2007.02155.pdf)]
+Kckinven, S. Tendulkar, & S. Simha, ApJ, vol. 899, id. 161, 11 pp. (2020)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..161L/abstract),
+[PDF](https://arxiv.org/pdf/2007.02155.pdf)]
 
 *Serendipitous Discovery of a Physical Binary Quasar at z = 1.76,*  
 E. Altamura, S. Brennan, A. Leśniewska, V. Pintér, S. N. dos Reis, T. Pursimo, J. P. U. Fynbo,
