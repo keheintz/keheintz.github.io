@@ -19,6 +19,13 @@ include 12 refereed publications as first author and 33 as co-author.
 
 ## First-Authored Papers
 
+_Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for their Progenitors,_  
+**Kasper E. Heintz**, J. Xavier Prochaska, Sunil Simha, Emma Platts, Wen-fai
+Fong, Nicolas Tejos, Stuart D. Ryder, Kshitij Aggarwal, Shivani Bhandari,
+Cherie K. Day, Adam T. Deller, Charles D. Kilpatrick, Casey J. Law, Jean-Pierre
+Macquart, Alexandra Mannings, Lachlan J. Marnoch, Elaine M. Sadler, & Ryan M. Shannon, ApJ in press (arXiv: 2009.10747)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200910747H/abstract), [PDF](https://arxiv.org/pdf/2009.10747.pdf)] 
+
 _Direct Measurement of the [CI] Luminosity to Molecular Gas Mass Conversion Factor in High-redshift Star-forming Galaxies,_  
 **Kasper E. Heintz** & Darach Watson, ApJL, vol. 889, id. L7, 8 pp. (2020)
 [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...889L...7H/abstract),
@@ -86,6 +93,18 @@ _A study of purely astrometric selection of extragalactic point sources with Gai
 **K. E. Heintz**, J. P. U. Fynbo, & E. Høg, A&A, vol. 578, id. A91, 4 pp. (2015) [[ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...578A..91H/abstract), [PDF](https://www.aanda.org/articles/aa/pdf/2015/06/aa26038-15.pdf)]
 
 ## Co-Authored Papers
+
+_Confronting the Magnetar Interpretation of Fast Radio Bursts Through Their Host Galaxy Demographics_  
+Mohammadtaher Safarzadeh, J. Xavier Prochaska, **Kasper E. Heintz**, & Wen-fai Fong, submitted to ApJL (arXiv: 2009.11735)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200911735S/abstract), [PDF](https://arxiv.org/pdf/2009.11735.pdf)]
+
+_Dissecting the Local Environment of FRB 190608 in the Spiral Arm of its Host Galaxy,_  
+Jay S. Chittidi, Sunil Simha, Alexandra Mannings, J. Xavier Prochaska, Marc
+Rafelski, Marcel Neeleman, Jean-Pierre Macquart, Nicolas Tejos, Regina A.
+Jorgenson, Stuart D. Ryder, Cherie K. Day, Lachlan Marnoch, Shivani Bhandari,
+Adam T. Deller, Hao Qiu, Keith W. Bannister, Ryan M. Shannon, & **Kasper E.
+Heintz**, ApJ in press (arXiv: 2005.13158)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200513158C/abstract), [PDF](https://arxiv.org/pdf/2005.13158.pdf)]
 
 *Lyman continuum leakage in faint star-forming galaxies at redshift z = 3-3.5 probed by gamma-ray bursts,*  
 J.-B. Vielfaure, S. D. Vergani, J. Japelj, J. P. U. Fynbo, M. Gronkle, **K. E.
