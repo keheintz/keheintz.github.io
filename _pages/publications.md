@@ -12,19 +12,26 @@ might not be updated, so please also check
 [ADS](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=author%3A%22Heintz%2C%20K.%20E.%22%20year%3A2015-2020&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 or [ORCID](https://orcid.org/0000-0002-9389-7413). My publication record
 include 12 refereed publications as first author and 33 as co-author.  
-**h-index** (number of publications with more than h citations): 15  
-**Total number of citations:** 2375  
-(as of Sep. 22, 2020)
+**h-index** (number of publications with more than h citations): 16   
+**Total number of citations:** 16  
+(as of Nov. 26, 2020)
 
 
 ## First-Authored Papers
+
+_Spectroscopic classification of a complete sample of astrometrically-selected quasar candidates using Gaia DR2,_  
+**K. E. Heintz**,J. P. U. Fynbo, S. J. Geier, P. Møller, J.-K. Krogager,
+C. Konstantopoulou, A. de Burgos, L. Christensen, C. L. Steinhardt, B. Milvang-Jensen,
+P. Jakobsson, E. Høg, B. E. H. K. Arvedlund, C. R. Christiansen, T. B. Hansen, P. D. Henriksen, 
+K. B. Kuszon, I. B. McKenzie, K. A. Mosekjær, M. F. K. Paulsen, M. N. Sukstorf, S. N. Wilson, & S. K. K. Ørgaard, 
+A&A, vol. 644, id. A17 (2020) [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201005934H/abstract), [PDF](https://arxiv.org/pdf/2010.05934.pdf)]  
 
 _Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for their Progenitors,_  
 **Kasper E. Heintz**, J. Xavier Prochaska, Sunil Simha, Emma Platts, Wen-fai
 Fong, Nicolas Tejos, Stuart D. Ryder, Kshitij Aggarwal, Shivani Bhandari,
 Cherie K. Day, Adam T. Deller, Charles D. Kilpatrick, Casey J. Law, Jean-Pierre
-Macquart, Alexandra Mannings, Lachlan J. Marnoch, Elaine M. Sadler, & Ryan M. Shannon, ApJ in press (arXiv: 2009.10747)
-[[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200910747H/abstract), [PDF](https://arxiv.org/pdf/2009.10747.pdf)] 
+Macquart, Alexandra Mannings, Lachlan J. Marnoch, Elaine M. Sadler, & Ryan M. Shannon, 
+ApJ, 903, 152 (2020) [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...903..152H/abstract), [PDF](https://arxiv.org/pdf/2009.10747.pdf)]
 
 _Direct Measurement of the [CI] Luminosity to Molecular Gas Mass Conversion Factor in High-redshift Star-forming Galaxies,_  
 **Kasper E. Heintz** & Darach Watson, ApJL, vol. 889, id. L7, 8 pp. (2020)
@@ -105,6 +112,10 @@ Jorgenson, Stuart D. Ryder, Cherie K. Day, Lachlan Marnoch, Shivani Bhandari,
 Adam T. Deller, Hao Qiu, Keith W. Bannister, Ryan M. Shannon, & **Kasper E.
 Heintz**, ApJ in press (arXiv: 2005.13158)
 [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200513158C/abstract), [PDF](https://arxiv.org/pdf/2005.13158.pdf)]
+
+_Observational constraints on the optical and near-infrared emission from the neutron star-black hole binary merger candidate S190814bv,_ 
+ENGRAVE collaboration, A&A, 643, id. A113, 48 pp. (2020), 
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.113A/abstract), [PDF](https://arxiv.org/pdf/2002.01950.pdf)]
 
 *Lyman continuum leakage in faint star-forming galaxies at redshift z = 3-3.5 probed by gamma-ray bursts,*  
 J.-B. Vielfaure, S. D. Vergani, J. Japelj, J. P. U. Fynbo, M. Gronkle, **K. E.
