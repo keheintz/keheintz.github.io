@@ -9,7 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Fast radio bursts are brief, but energetic, flashes of radio emission.
+# History of detection
+ 
+Fast radio bursts are brief, but energetic, flashes of radio emission. Detected in 2007 (from 2001 burst), etc.
+
+# FRB emission mechanisms and progenitors
+
+<p align="center">
+  <img src="https://keheintz.github.io/files/FRBmagnetar.png?raw=true" alt="Photo" style="width: 550px;"/>
+</p>
+
+# FRB host galaxies
+
+<p align="center">
+  <img src="https://keheintz.github.io/files/inanearbygal.jpg?raw=true" alt="Photo" style="width: 550px;"/>
+</p>
+
+# FRBs as cosmic probes 
+
 
 [TBD]
 

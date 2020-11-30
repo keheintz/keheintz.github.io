@@ -30,6 +30,7 @@ team is dedicated to the follow-up of fast radio bursts and their host galaxies
 at optical to infrared wavelengths. Our main science goals are to constrain the
 FRB progenitor(s) through population studies of their host galaxies and to
 disentangle the cosmic web correlated with foreground galaxies and their halos.
+This research is done in collaboration with the CRAFT and realfast collaborations. 
 
 * **[ENGRAVE](http://www.engrave-eso.org)** is a newly founded collaboration,
 performing follow-up observations of **E**lectromag**n**etic counterparts of
