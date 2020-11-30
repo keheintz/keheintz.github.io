@@ -24,14 +24,14 @@ _Spectroscopic classification of a complete sample of astrometrically-selected q
 C. Konstantopoulou, A. de Burgos, L. Christensen, C. L. Steinhardt, B. Milvang-Jensen,
 P. Jakobsson, E. Høg, B. E. H. K. Arvedlund, C. R. Christiansen, T. B. Hansen, P. D. Henriksen, 
 K. B. Kuszon, I. B. McKenzie, K. A. Mosekjær, M. F. K. Paulsen, M. N. Sukstorf, S. N. Wilson, & S. K. K. Ørgaard, 
-A&A, vol. 644, id. A17 (2020) [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201005934H/abstract), [PDF](https://arxiv.org/pdf/2010.05934.pdf)]  
+A&A, vol. 644, id. A17, 22 pp. (2020) [[ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...644A..17H/abstract), [PDF](https://arxiv.org/pdf/2010.05934.pdf)]  
 
 _Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for their Progenitors,_  
 **Kasper E. Heintz**, J. Xavier Prochaska, Sunil Simha, Emma Platts, Wen-fai
 Fong, Nicolas Tejos, Stuart D. Ryder, Kshitij Aggarwal, Shivani Bhandari,
 Cherie K. Day, Adam T. Deller, Charles D. Kilpatrick, Casey J. Law, Jean-Pierre
 Macquart, Alexandra Mannings, Lachlan J. Marnoch, Elaine M. Sadler, & Ryan M. Shannon, 
-ApJ, 903, 152 (2020) [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...903..152H/abstract), [PDF](https://arxiv.org/pdf/2009.10747.pdf)]
+ApJ, vol. 903, 152, 22 pp. (2020) [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...903..152H/abstract), [PDF](https://arxiv.org/pdf/2009.10747.pdf)]
 
 _Direct Measurement of the [CI] Luminosity to Molecular Gas Mass Conversion Factor in High-redshift Star-forming Galaxies,_  
 **Kasper E. Heintz** & Darach Watson, ApJL, vol. 889, id. L7, 8 pp. (2020)
