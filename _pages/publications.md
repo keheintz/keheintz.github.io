@@ -101,9 +101,15 @@ _A study of purely astrometric selection of extragalactic point sources with Gai
 
 ## Co-Authored Papers
 
+_Deep Optical Observations Contemporaneous with Emission from the Periodic FRB 180916.J0158+65_  
+Charles D. Kilpatrick, Joseph N. Burchett, David. O. Jones, Ben Margalit,
+Russet McMillan, Wen-fai Fong, **Kasper E. Heintz**, Nicolas Tejos, & Alicia R. Escorial,
+ApJL, vol. 905, id. L30, 8 pp. (2021)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...907L...3K/abstract), [PDF](https://arxiv.org/pdf/2011.07561.pdf)]
+
 _Confronting the Magnetar Interpretation of Fast Radio Bursts Through Their Host Galaxy Demographics_  
-Mohammadtaher Safarzadeh, J. Xavier Prochaska, **Kasper E. Heintz**, & Wen-fai Fong, submitted to ApJL (arXiv: 2009.11735)
-[[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200911735S/abstract), [PDF](https://arxiv.org/pdf/2009.11735.pdf)]
+Mohammadtaher Safarzadeh, J. Xavier Prochaska, **Kasper E. Heintz**, & Wen-fai Fong, ApJL, vol. 905, id. L30, 4 pp. (2020)
+[[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...905L..30S/abstract), [PDF](https://arxiv.org/pdf/2009.11735.pdf)]
 
 _Dissecting the Local Environment of FRB 190608 in the Spiral Arm of its Host Galaxy,_  
 Jay S. Chittidi, Sunil Simha, Alexandra Mannings, J. Xavier Prochaska, Marc
